@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Online Code Execution Engine](https://github.com/ritikchawla/Online-Code-Execution-Engine)
 
-- 🌱 I’m currently learning **Full Stack Developement**
+- 🌱 I’m currently learning **Full Stack Developement** and **DevOps*
 
 - 👨‍💻 All of my projects are available at [https://ritikchawla.github.io/](https://ritikchawla.github.io/)
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Data Structures and Algorithms**
 
-- 📫 How to reach me **ritchwsh@gmail.com**
+- 📫 How to reach me **chawlaritik@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1CsvR8KrLHRtJOeyFjJqLrxV4oEcgnNRX/view](https://drive.google.com/file/d/1CsvR8KrLHRtJOeyFjJqLrxV4oEcgnNRX/view)
 
