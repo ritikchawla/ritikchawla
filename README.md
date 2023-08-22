@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Online Code Execution Engine](https://github.com/ritikchawla/Online-Code-Execution-Engine)
 
-- 🌱 I’m currently learning **Full Stack Developement** and **DevOps*
+- 🌱 I’m currently learning **Full Stack Developement** and **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://ritikchawla.github.io/](https://ritikchawla.github.io/)
 
